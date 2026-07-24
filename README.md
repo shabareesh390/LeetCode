@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shabareesh390/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shabareesh390/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/shabareesh390/LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/shabareesh390/LeetCode/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shabareesh390/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shabareesh390/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/shabareesh390/LeetCode/tree/master/0645-set-mismatch) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/shabareesh390/LeetCode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/shabareesh390/LeetCode/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/shabareesh390/LeetCode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
