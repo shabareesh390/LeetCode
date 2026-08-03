@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shabareesh390/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shabareesh390/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/shabareesh390/LeetCode/tree/master/0912-sort-an-array) |
+| [3925-concatenate-array-with-reverse](https://github.com/shabareesh390/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/shabareesh390/LeetCode/tree/master/0258-add-digits) |
+| [3925-concatenate-array-with-reverse](https://github.com/shabareesh390/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Number Theory
 |  |
 | ------- |
