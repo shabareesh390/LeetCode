@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shabareesh390/LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/shabareesh390/LeetCode/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shabareesh390/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1512-number-of-good-pairs](https://github.com/shabareesh390/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shabareesh390/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Recursion
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shabareesh390/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shabareesh390/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/shabareesh390/LeetCode/tree/master/0912-sort-an-array) |
+| [1512-number-of-good-pairs](https://github.com/shabareesh390/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/shabareesh390/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shabareesh390/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2942-find-words-containing-character](https://github.com/shabareesh390/LeetCode/tree/master/2942-find-words-containing-character) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/shabareesh390/LeetCode/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/shabareesh390/LeetCode/tree/master/0912-sort-an-array) |
+| [1512-number-of-good-pairs](https://github.com/shabareesh390/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/shabareesh390/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shabareesh390/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/shabareesh390/LeetCode/tree/master/0645-set-mismatch) |
+| [1512-number-of-good-pairs](https://github.com/shabareesh390/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
