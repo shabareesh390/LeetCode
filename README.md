@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/shabareesh390/LeetCode/tree/master/0912-sort-an-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shabareesh390/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2942-find-words-containing-character](https://github.com/shabareesh390/LeetCode/tree/master/2942-find-words-containing-character) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/shabareesh390/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/shabareesh390/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/shabareesh390/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/shabareesh390/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/shabareesh390/LeetCode/tree/master/0258-add-digits) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/shabareesh390/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
