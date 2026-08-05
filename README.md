@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/shabareesh390/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1929-concatenation-of-array](https://github.com/shabareesh390/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shabareesh390/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2574-left-and-right-sum-differences](https://github.com/shabareesh390/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2942-find-words-containing-character](https://github.com/shabareesh390/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shabareesh390/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/shabareesh390/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/shabareesh390/LeetCode/tree/master/0724-find-pivot-index) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/shabareesh390/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2574-left-and-right-sum-differences](https://github.com/shabareesh390/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 ## Backtracking
 |  |
 | ------- |
