@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/shabareesh390/LeetCode/tree/master/0645-set-mismatch) |
 | [1512-number-of-good-pairs](https://github.com/shabareesh390/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3668-restore-finishing-order](https://github.com/shabareesh390/LeetCode/tree/master/3668-restore-finishing-order) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/shabareesh390/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shabareesh390/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/shabareesh390/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/shabareesh390/LeetCode/tree/master/3110-score-of-a-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/shabareesh390/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Dynamic Programming
 |  |
 | ------- |
