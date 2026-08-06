@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/shabareesh390/LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/shabareesh390/LeetCode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/shabareesh390/LeetCode/tree/master/0041-first-missing-positive) |
+| [0051-n-queens](https://github.com/shabareesh390/LeetCode/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/shabareesh390/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/shabareesh390/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shabareesh390/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shabareesh390/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/shabareesh390/LeetCode/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/shabareesh390/LeetCode/tree/master/0051-n-queens) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/shabareesh390/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Simulation
 |  |
@@ -229,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/shabareesh390/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/shabareesh390/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
