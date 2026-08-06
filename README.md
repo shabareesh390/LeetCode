@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/shabareesh390/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shabareesh390/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/shabareesh390/LeetCode/tree/master/2942-find-words-containing-character) |
+| [3110-score-of-a-string](https://github.com/shabareesh390/LeetCode/tree/master/3110-score-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
