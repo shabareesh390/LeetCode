@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/shabareesh390/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shabareesh390/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shabareesh390/LeetCode/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/shabareesh390/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/shabareesh390/LeetCode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/shabareesh390/LeetCode/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/shabareesh390/LeetCode/tree/master/0051-n-queens) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/shabareesh390/LeetCode/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/shabareesh390/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/shabareesh390/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Divide and Conquer
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shabareesh390/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/shabareesh390/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/shabareesh390/LeetCode/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/shabareesh390/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shabareesh390/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shabareesh390/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/shabareesh390/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/shabareesh390/LeetCode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/shabareesh390/LeetCode/tree/master/0051-n-queens) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/shabareesh390/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -234,5 +238,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/shabareesh390/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/shabareesh390/LeetCode/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/shabareesh390/LeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
