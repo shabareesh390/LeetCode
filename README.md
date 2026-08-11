@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/shabareesh390/LeetCode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/shabareesh390/LeetCode/tree/master/0392-is-subsequence) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shabareesh390/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/shabareesh390/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/shabareesh390/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shabareesh390/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/shabareesh390/LeetCode/tree/master/2942-find-words-containing-character) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/shabareesh390/LeetCode/tree/master/0561-array-partition) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/shabareesh390/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
