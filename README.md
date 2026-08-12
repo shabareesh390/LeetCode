@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/shabareesh390/LeetCode/tree/master/0912-sort-an-array) |
 | [1313-decompress-run-length-encoded-list](https://github.com/shabareesh390/LeetCode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shabareesh390/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1389-create-target-array-in-the-given-order](https://github.com/shabareesh390/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shabareesh390/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/shabareesh390/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/shabareesh390/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/shabareesh390/LeetCode/tree/master/0258-add-digits) |
+| [1389-create-target-array-in-the-given-order](https://github.com/shabareesh390/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/shabareesh390/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/shabareesh390/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shabareesh390/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
