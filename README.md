@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shabareesh390/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shabareesh390/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shabareesh390/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/shabareesh390/LeetCode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/shabareesh390/LeetCode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2553-separate-the-digits-in-an-array](https://github.com/shabareesh390/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/shabareesh390/LeetCode/tree/master/2574-left-and-right-sum-differences) |
