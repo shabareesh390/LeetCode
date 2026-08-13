@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shabareesh390/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shabareesh390/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/shabareesh390/LeetCode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/shabareesh390/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/shabareesh390/LeetCode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2418-sort-the-people](https://github.com/shabareesh390/LeetCode/tree/master/2418-sort-the-people) |
 | [2553-separate-the-digits-in-an-array](https://github.com/shabareesh390/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/shabareesh390/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/shabareesh390/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shabareesh390/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/shabareesh390/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2418-sort-the-people](https://github.com/shabareesh390/LeetCode/tree/master/2418-sort-the-people) |
 | [2942-find-words-containing-character](https://github.com/shabareesh390/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/shabareesh390/LeetCode/tree/master/3110-score-of-a-string) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shabareesh390/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/shabareesh390/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Greedy
 |  |
 | ------- |
