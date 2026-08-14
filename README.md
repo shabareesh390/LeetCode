@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/shabareesh390/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/shabareesh390/LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/shabareesh390/LeetCode/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shabareesh390/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shabareesh390/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/shabareesh390/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shabareesh390/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/shabareesh390/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/shabareesh390/LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/shabareesh390/LeetCode/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shabareesh390/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/shabareesh390/LeetCode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/shabareesh390/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/shabareesh390/LeetCode/tree/master/0724-find-pivot-index) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/shabareesh390/LeetCode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shabareesh390/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/shabareesh390/LeetCode/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shabareesh390/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/shabareesh390/LeetCode/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/shabareesh390/LeetCode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shabareesh390/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
