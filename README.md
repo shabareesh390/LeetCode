@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shabareesh390/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/shabareesh390/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/shabareesh390/LeetCode/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/shabareesh390/LeetCode/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/shabareesh390/LeetCode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/shabareesh390/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/shabareesh390/LeetCode/tree/master/0724-find-pivot-index) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/shabareesh390/LeetCode/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/shabareesh390/LeetCode/tree/master/0605-can-place-flowers) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/shabareesh390/LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/shabareesh390/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Prefix Sum
