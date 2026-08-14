@@ -1,22 +1,20 @@
-import java.math.BigInteger;
 class Solution {
     public List<Integer> addToArrayForm(int[] num, int k) {
-        String temp = "";
-
-        for (int i = 0; i < num.length; i++) {
-            temp += num[i];
-        }
-
-        BigInteger n = new BigInteger(temp);
-        n = n.add(BigInteger.valueOf(k));
-
-        String result = n.toString();
-
         ArrayList<Integer> list = new ArrayList<>();
 
-        for (int i = 0; i < result.length(); i++) {
-            list.add(result.charAt(i) - '0');
+        int i = num.length - 1;
+
+        while (i >= 0 || k > 0) {
+            if (i >= 0) {
+                k += num[i];
+                i--;
+            }
+
+            list.add(k % 10);
+            k /= 10;
         }
+
+        Collections.reverse(list);
 
         return list;
     }
