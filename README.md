@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/shabareesh390/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/shabareesh390/LeetCode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/shabareesh390/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/shabareesh390/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shabareesh390/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/shabareesh390/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/shabareesh390/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/shabareesh390/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/shabareesh390/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/shabareesh390/LeetCode/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/shabareesh390/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/shabareesh390/LeetCode/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/shabareesh390/LeetCode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/shabareesh390/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/shabareesh390/LeetCode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/shabareesh390/LeetCode/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/shabareesh390/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -377,4 +380,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/shabareesh390/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shabareesh390/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/shabareesh390/LeetCode/tree/master/0202-happy-number) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/shabareesh390/LeetCode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
