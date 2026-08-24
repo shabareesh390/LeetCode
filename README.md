@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/shabareesh390/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/shabareesh390/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shabareesh390/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shabareesh390/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/shabareesh390/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/shabareesh390/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Math
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/shabareesh390/LeetCode/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/shabareesh390/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/shabareesh390/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shabareesh390/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shabareesh390/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/shabareesh390/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shabareesh390/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/shabareesh390/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shabareesh390/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shabareesh390/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3174-clear-digits](https://github.com/shabareesh390/LeetCode/tree/master/3174-clear-digits) |
 ## Tournament Sort
 |  |
