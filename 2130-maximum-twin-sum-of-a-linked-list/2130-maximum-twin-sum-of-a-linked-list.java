@@ -21,7 +21,7 @@ class Solution {
         curr=curr.next;
        } 
     
-       for(int i = 0;i <= (n / 2) - 1;i++){
+       for(int i = 0;i < (n / 2);i++){
         int twin=n-1-i;
         int sum=list.get(i)+list.get(twin);
         max=Math.max(max,sum);
