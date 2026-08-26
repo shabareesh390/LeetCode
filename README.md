@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/shabareesh390/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shabareesh390/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/shabareesh390/LeetCode/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/shabareesh390/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/shabareesh390/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/shabareesh390/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shabareesh390/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/shabareesh390/LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/shabareesh390/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/shabareesh390/LeetCode/tree/master/0268-missing-number) |
+| [0445-add-two-numbers-ii](https://github.com/shabareesh390/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/shabareesh390/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shabareesh390/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/shabareesh390/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/shabareesh390/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shabareesh390/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/shabareesh390/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/shabareesh390/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shabareesh390/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/shabareesh390/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shabareesh390/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
