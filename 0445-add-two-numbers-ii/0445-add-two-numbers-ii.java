@@ -32,7 +32,7 @@ class Solution {
             }
             carry=sum/10;
             sum=sum%10;
-            ListNode node = new ListNode(sum % 10);
+            ListNode node = new ListNode(sum);
             node.next = ans;
             ans = node;
         }
