@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/shabareesh390/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/shabareesh390/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/shabareesh390/LeetCode/tree/master/0725-split-linked-list-in-parts) |
+| [0817-linked-list-components](https://github.com/shabareesh390/LeetCode/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/shabareesh390/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shabareesh390/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1669-merge-in-between-linked-lists](https://github.com/shabareesh390/LeetCode/tree/master/1669-merge-in-between-linked-lists) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shabareesh390/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/shabareesh390/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/shabareesh390/LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0817-linked-list-components](https://github.com/shabareesh390/LeetCode/tree/master/0817-linked-list-components) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shabareesh390/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/shabareesh390/LeetCode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/shabareesh390/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/shabareesh390/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shabareesh390/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/shabareesh390/LeetCode/tree/master/0645-set-mismatch) |
+| [0817-linked-list-components](https://github.com/shabareesh390/LeetCode/tree/master/0817-linked-list-components) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shabareesh390/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/shabareesh390/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shabareesh390/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
