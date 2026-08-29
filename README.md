@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/shabareesh390/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shabareesh390/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/shabareesh390/LeetCode/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/shabareesh390/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/shabareesh390/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/shabareesh390/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [0817-linked-list-components](https://github.com/shabareesh390/LeetCode/tree/master/0817-linked-list-components) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/shabareesh390/LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/shabareesh390/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/shabareesh390/LeetCode/tree/master/0268-missing-number) |
+| [0382-linked-list-random-node](https://github.com/shabareesh390/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/shabareesh390/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/shabareesh390/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shabareesh390/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -503,4 +505,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/shabareesh390/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/shabareesh390/LeetCode/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/shabareesh390/LeetCode/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
