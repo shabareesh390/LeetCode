@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shabareesh390/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/shabareesh390/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/shabareesh390/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Greedy
 |  |
@@ -493,14 +494,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/shabareesh390/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/shabareesh390/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/shabareesh390/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/shabareesh390/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/shabareesh390/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/shabareesh390/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## DP on Trees
 |  |
 | ------- |
@@ -513,4 +517,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/shabareesh390/LeetCode/tree/master/0382-linked-list-random-node) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/shabareesh390/LeetCode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
