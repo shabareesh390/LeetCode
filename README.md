@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/shabareesh390/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/shabareesh390/LeetCode/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/shabareesh390/LeetCode/tree/master/0912-sort-an-array) |
+| [1382-balance-a-binary-search-tree](https://github.com/shabareesh390/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/shabareesh390/LeetCode/tree/master/0605-can-place-flowers) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/shabareesh390/LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shabareesh390/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1382-balance-a-binary-search-tree](https://github.com/shabareesh390/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shabareesh390/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/shabareesh390/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Prefix Sum
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/shabareesh390/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shabareesh390/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/shabareesh390/LeetCode/tree/master/0938-range-sum-of-bst) |
+| [1382-balance-a-binary-search-tree](https://github.com/shabareesh390/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -547,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/shabareesh390/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shabareesh390/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0938-range-sum-of-bst](https://github.com/shabareesh390/LeetCode/tree/master/0938-range-sum-of-bst) |
+| [1382-balance-a-binary-search-tree](https://github.com/shabareesh390/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -565,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/shabareesh390/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shabareesh390/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/shabareesh390/LeetCode/tree/master/0938-range-sum-of-bst) |
+| [1382-balance-a-binary-search-tree](https://github.com/shabareesh390/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## DP on Trees
 |  |
 | ------- |
@@ -605,4 +610,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/shabareesh390/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shabareesh390/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/shabareesh390/LeetCode/tree/master/0938-range-sum-of-bst) |
+| [1382-balance-a-binary-search-tree](https://github.com/shabareesh390/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
