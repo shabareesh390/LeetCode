@@ -28,7 +28,7 @@ class Solution {
         }
         return isSubtree(root.left,subRoot) || isSubtree(root.right,subRoot);
     }
-    static boolean isSame(TreeNode root, TreeNode subRoot){
+    static boolean isSame(TreeNode root,TreeNode subRoot){
         if(root == null && subRoot == null){
             return true;
         }
