@@ -19,13 +19,13 @@ class Solution {
             return null;
         }
         if(key < root.val){
-           root.left = deleteNode(root.left,key);
+            root.left=deleteNode(root.left,key);
         }
         else if(key > root.val){
-            root.right = deleteNode(root.right,key);
+            root.right=deleteNode(root.right,key);
         }
         else{
-            if(root.left == null && root.right == null){
+            if(root.left==null && root.right==null){
                 return null;
             }
             if(root.left == null){
@@ -34,15 +34,15 @@ class Solution {
             if(root.right == null){
                 return root.left;
             }
-            TreeNode successor=root.right;
-            while(successor.left != null){
-                successor=successor.left;
+            TreeNode suc=root.right;
+            while(suc.left != null){
+                suc=suc.left;
             }
-            root.val=successor.val;
-            root.right=deleteNode(root.right,successor.val);
-
+            root.val=suc.val;
+            root.right=deleteNode(root.right,suc.val);
         }
         return root;
-    }    
+    }
+    
        
 }
