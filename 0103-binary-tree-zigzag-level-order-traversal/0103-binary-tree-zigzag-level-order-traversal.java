@@ -28,56 +28,43 @@ class Solution {
         q.add(null);
 
         boolean rev = false;
-
         while(!q.isEmpty()){
-
             TreeNode curr;
-
             if(!rev){
-                curr = q.removeFirst();
+                curr=q.removeFirst();
             }
             else{
-                curr = q.removeLast();
+                curr=q.removeLast();
             }
-
             if(curr == null){
-
                 result.add(level);
-                level = new ArrayList<>();
-
+                level=new ArrayList<>();
                 if(q.isEmpty()){
                     return result;
                 }
-
-                rev = !rev;
-
+                rev=!rev;
                 if(rev){
                     q.addFirst(null);
                 }
                 else{
                     q.addLast(null);
                 }
+                
             }
             else{
-
                 level.add(curr.val);
-
                 if(!rev){
-
                     if(curr.left != null){
                         q.addLast(curr.left);
                     }
-
                     if(curr.right != null){
                         q.addLast(curr.right);
                     }
                 }
                 else{
-
                     if(curr.right != null){
                         q.addFirst(curr.right);
                     }
-
                     if(curr.left != null){
                         q.addFirst(curr.left);
                     }
