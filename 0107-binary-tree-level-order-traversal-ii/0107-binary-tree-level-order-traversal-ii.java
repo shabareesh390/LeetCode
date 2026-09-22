@@ -15,10 +15,10 @@
  */
 class Solution {
     public List<List<Integer>> levelOrderBottom(TreeNode root) {
-         List<List<Integer>> result=new ArrayList<>();
+         List<List<Integer>> res=new ArrayList<>();
          List<Integer> level=new ArrayList<>();
-         if(root==null){
-            return result;
+         if(root == null){
+            return res;
          }
          Queue<TreeNode> q=new LinkedList<>();
          q.add(root);
@@ -26,10 +26,10 @@ class Solution {
          while(!q.isEmpty()){
             TreeNode curr=q.remove();
             if(curr==null){
-                result.add(0,level);
+                res.add(0,level);
                 level=new ArrayList<>();
                 if(q.isEmpty()){
-                    return result;
+                    return res;
                 }
                 q.add(null);
             }
@@ -43,6 +43,6 @@ class Solution {
                 }
             }
          }
-         return result;
+         return res;
     }
 }
