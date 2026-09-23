@@ -26,32 +26,19 @@ class Solution {
         if(root==null){
             return null;
         }
-        Queue<Node> q=new LinkedList<>();
-        q.add(root);
-        q.add(null);
-        Node prev=null;
-        while (!q.isEmpty()){
-            Node curr=q.remove();
-            if(curr == null){
-                if(q.isEmpty()){
-                    break;
+        Node leftMost=root;
+        while(leftMost.left != null){
+            Node curr=leftMost;
+            while(curr != null){
+                curr.left.next=curr.right;
+                if(curr.next != null){
+                    curr.right.next=curr.next.left;
                 }
-                q.add(null);
-                prev=null;
+                curr=curr.next;
             }
-            else{
-                if(prev != null){
-                    prev.next=curr;
-                }
-                prev=curr;
-                if(curr.left!=null){
-                    q.add(curr.left);
-                }
-                if(curr.right!=null){
-                    q.add(curr.right);
-                }
-            }
+            leftMost=leftMost.left;
         }
+        
         return root;
     }
 }
