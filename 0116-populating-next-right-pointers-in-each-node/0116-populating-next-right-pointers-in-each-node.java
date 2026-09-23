@@ -38,7 +38,6 @@ class Solution {
             }
             leftMost=leftMost.left;
         }
-        
         return root;
     }
 }
