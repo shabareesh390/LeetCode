@@ -19,12 +19,11 @@ class Solution {
             return false;
         }
         TreeNode xx=findNode(root,x);
-        TreeNode yy=findNode(root,y);    
-        return(
-            level(root,xx,0)==level(root,yy,0) && !isSib(root,xx,yy)
+        TreeNode yy=findNode(root,y);
+        return (
+            (level(root,xx,0) == level(root,yy,0)) && !isSib(root,xx,yy)
         );
-
-    }
+    }    
     static TreeNode findNode(TreeNode root,int x){
         if(root == null){
             return null;
@@ -52,9 +51,9 @@ class Solution {
         return level(root.right,x,lev+1);
     }
     static boolean isSib(TreeNode root,TreeNode x,TreeNode y){
-        if(root==null){
+        if(root == null){
             return false;
         }
-        return (root.left==x && root.right==y) || (root.left==y && root.right==x) || isSib(root.left,x,y) || isSib(root.right,x,y);
+        return (root.left == x && root.right == y) || (root.left == y && root.right == x) || isSib(root.left,x,y) || isSib(root.right,x,y);
     }
 }
