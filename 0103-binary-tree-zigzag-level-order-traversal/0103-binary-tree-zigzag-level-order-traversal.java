@@ -21,8 +21,8 @@ class Solution {
             return result;
         }
         Deque<TreeNode> q=new LinkedList<>();
-        q.add(root);
-        q.add(null);
+        q.addLast(root);
+        q.addLast(null);
         boolean rev=false;
         while(!q.isEmpty()){
             TreeNode curr;
@@ -60,13 +60,12 @@ class Solution {
                     if(curr.right != null){
                         q.addFirst(curr.right);
                     }
-                    if(curr.left != null){
+                     if(curr.left != null){
                         q.addFirst(curr.left);
-                    }
+                    } 
                 }
             }
         }
         return result;
-        
     }
 }
