@@ -20,9 +20,7 @@ class Solution {
         }
         TreeNode xx=findNode(root,x);
         TreeNode yy=findNode(root,y);
-        return (
-            (level(root,xx,0) == level(root,yy,0)) && !isSib(root,xx,yy)
-        );
+        return (level(root,xx,0) == level(root,yy,0)) && !isSib(root,xx,yy);
     }    
     static TreeNode findNode(TreeNode root,int x){
         if(root == null){
@@ -31,9 +29,9 @@ class Solution {
         if(root.val == x){
             return root;
         }
-        TreeNode n=findNode(root.left,x);
-        if(n != null){
-            return n;
+        TreeNode left=findNode(root.left,x);
+        if(left != null){
+            return left;
         }
         return findNode(root.right,x);
     }
@@ -44,9 +42,9 @@ class Solution {
         if(root == x){
             return lev;
         }
-        int l=level(root.left,x,lev+1);
-        if(l != 0){
-            return l;
+        int left=level(root.left,x,lev+1);
+        if(left != 0){
+            return left;
         }
         return level(root.right,x,lev+1);
     }
@@ -54,6 +52,8 @@ class Solution {
         if(root == null){
             return false;
         }
-        return (root.left == x && root.right == y) || (root.left == y && root.right == x) || isSib(root.left,x,y) || isSib(root.right,x,y);
+        return (
+            (root.left == x && root.right == y) || (root.left == y && root.right == x) || isSib(root.left,x,y) || isSib(root.right,x,y)
+        );
     }
 }
